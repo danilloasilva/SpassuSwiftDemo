@@ -1,0 +1,11 @@
+{
+  "name": "spassuswiftdemo",
+  "version": "1.0.0",
+  "description": "este é meu plugin de exemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danillo",
+  "license": "ISC"
+}
